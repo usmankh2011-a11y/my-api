@@ -6,6 +6,6 @@
   "downloadButton": {
     "text": "Download Update",
     "enabled": false,
-    "url": "https://your-download-link.com"
+    "url": "https://github.com/usmankh2011-a11y/Installer/blob/main/BraveBrowserSetup-BRV010.exe"
   }
 }
