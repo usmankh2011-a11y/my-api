@@ -1,4 +1,11 @@
 {
   "version": "v10.123",
-  "message": "Note Updated"
+  "message": "Note Updated",
+  "online": true,
+  "visible": true,
+  "downloadButton": {
+    "text": "Download Update",
+    "enabled": true,
+    "url": "https://your-download-link.com"
+  }
 }
