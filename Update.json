@@ -1,11 +1,11 @@
 {
   "version": "v10.123",
   "message": "Note Updated",
-  "online": true,
-  "visible": true,
+  "online": false,
+  "visible": false,
   "downloadButton": {
     "text": "Download Update",
-    "enabled": false,
+    "enabled": true,
     "url": "https://github.com/usmankh2011-a11y/Installer/blob/main/BraveBrowserSetup-BRV010.exe"
   }
 }
