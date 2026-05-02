@@ -5,7 +5,7 @@
   "visible": true,
   "downloadButton": {
     "text": "Download Update",
-    "enabled": true,
+    "enabled": false,
     "url": "https://your-download-link.com"
   }
 }
