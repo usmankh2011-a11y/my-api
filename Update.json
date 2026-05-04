@@ -2,7 +2,7 @@
   "version": "v10.123",
   "message": "Note Updated",
   "online": true,
-  "visible": false,
+  "visible": true,
   "downloadButton": {
     "text": "Download Update",
     "enabled": true,
